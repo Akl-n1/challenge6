@@ -35,7 +35,7 @@ html {
 }
 body {
   height: 100vh;
-  background-image: url(photo.WebP);
+  background-image: url(..photo.WebP);
   background-size: cover;
 }
 html::before {
